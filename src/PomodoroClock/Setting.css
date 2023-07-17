@@ -1,0 +1,11 @@
+div .appear0{
+    display: none;
+}
+.appear1{
+    display: inline;
+}
+.setting{
+    width: auto;
+    height: 20px;
+    margin: 15px;
+}

@@ -1,0 +1,13 @@
+.Cell{
+    width: 40px;
+    height: 40px;
+    border: 1px solid black;
+    display: inline-block;
+    line-height: 0;
+}
+.CellBlack{
+    background-color: black;
+}
+.CellWhite{
+    background-color: white;
+}
